@@ -12,3 +12,207 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+/* HTML stylings */
+.TopHeading h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.RowHeader {
+    display: table;
+    width: 100%;
+    height: 100px;
+    table-layout: fixed;
+    border-spacing: 0px;
+}
+.ColumnOneLogo {
+    display: table-cell;
+    /* background: url("../assets/logos/Tuberlinlogo.png"); */
+    background-color: #F5F5F5;
+    align-items: center;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ColumnTwoHeading {
+    display: table-cell;
+    background: #F5F5F5;
+    font-family: "Lucida Sans Typewriter";
+    text-align: center;
+}
+.ColumnThreeFlags {
+  display: table;
+  width: 100%;
+  height: 100px;
+  table-layout: fixed;
+  border-spacing: 0px;
+  align-content: center;
+  padding-top: 30px;
+  background: #F5F5F5;
+}
+.FlagOne {
+  display: table-cell;
+}
+.FlagTwo {
+  display: table-cell;
+}
+.FlagThree {
+  display: table-cell;
+}
+.FlagFour {
+  display: table-cell;
+}
+.FlagFive {
+  display: table-cell;
+}
+.FlagSix {
+  display: table-cell;
+}
+/* NavBar stylings */
+.NavBarMenu {
+  padding: 10 0 10px 0;
+  background: #F5F5F5;
+  font-family: "Lucida Sans Typewriter";
+  text-align: center;
+  list-style: none;
+}
+.NavBarMenu ul li {
+  display: inline-block;
+  padding: 0 25px 0 20px;
+}
+.NavBarMenu h2 {
+  color: black;
+}
+/* Home stylings */
+.homecontainer img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Todays Matches stylings */
+.todaysmatchescontainer h2 {
+  text-align: center;
+  text-decoration: none;
+  color: black;
+}
+.matchOne img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 900px;
+}
+.matchOne img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchOne p,h3 {
+  color: black;
+  text-align: center;
+}
+.matchTwo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 900px;
+}
+.matchTwo img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchTwo p,h3 {
+  color: black;
+  text-align: center;
+}
+/* Summary stylings */
+.summarycontainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.summaryOne, .summaryTwo {
+  width: 50%
+}
+.summaryOne img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 600px;
+}
+.summaryTwo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+  width: 600px;
+}
+.summaryOne p,h2 {
+  color: black;
+  text-align: center;
+}
+.summaryTwo p,h2 {
+  color: black;
+  text-align: center;
+}
+
+/* Statistics stylings */
+.statisticscontainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.statOne, .statTwo {
+  width: 50%
+}
+.statOne img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 400px;
+}
+.statTwo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: 600px;
+}
+.statOne h3 {
+  color: black;
+  text-align: center;
+}
+.statTwo h3 {
+  color: black;
+  text-align: center;
+}
+
+/* Rankings Stylings */
+
+.rankingscontainer h3 {
+  text-align: center;
+  color: black;
+}
+
+.rankingstable {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.rankingstable td, .rankingstable th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.rankingstable tr:nth-child(even){background-color: #f2f2f2;}
+
+.rankingstable tr:hover {background-color: #ddd;}
+
+.rankingstable th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4CAF50;
+  color: white;
+}
