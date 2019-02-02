@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/statsenausnwl.2e268a80.png"
   },
   {
-    "revision": "bd34af6bf1971dd6a875ff70796babe3",
+    "revision": "0f8e1b17c71e351694d57b42479d68cb",
     "url": "/index.html"
   }
 ];
