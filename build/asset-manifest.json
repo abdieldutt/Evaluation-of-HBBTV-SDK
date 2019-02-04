@@ -1,9 +1,9 @@
 {
   "main.css": "/static/css/main.b307e61c.chunk.css",
-  "main.js": "/static/js/main.bd5a362d.chunk.js",
-  "main.js.map": "/static/js/main.bd5a362d.chunk.js.map",
-  "static/js/1.8296abc8.chunk.js": "/static/js/1.8296abc8.chunk.js",
-  "static/js/1.8296abc8.chunk.js.map": "/static/js/1.8296abc8.chunk.js.map",
+  "main.js": "/static/js/main.faf29241.chunk.js",
+  "main.js.map": "/static/js/main.faf29241.chunk.js.map",
+  "static/js/1.69bf98d6.chunk.js": "/static/js/1.69bf98d6.chunk.js",
+  "static/js/1.69bf98d6.chunk.js.map": "/static/js/1.69bf98d6.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/CricketWorldLogo.jpg": "/static/media/CricketWorldLogo.edbc8e78.jpg",
@@ -15,6 +15,6 @@
   "static/media/austraVsSouthAfrica.jpeg": "/static/media/austraVsSouthAfrica.3c8415b4.jpeg",
   "static/css/main.b307e61c.chunk.css.map": "/static/css/main.b307e61c.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.d217148dca1e0663fac9b77bf0a76391.js": "/precache-manifest.d217148dca1e0663fac9b77bf0a76391.js",
+  "precache-manifest.983aed2a5244cc051b7528f35208460f.js": "/precache-manifest.983aed2a5244cc051b7528f35208460f.js",
   "service-worker.js": "/service-worker.js"
 }

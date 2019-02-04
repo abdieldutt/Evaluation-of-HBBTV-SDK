@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/newZealandVsEngland.7e92fb6d.jpg"
   },
   {
-    "revision": "bd5a362d4e4159656063",
+    "revision": "faf29241c04eb08b9758",
     "url": "/static/css/main.b307e61c.chunk.css"
   },
   {
-    "revision": "8296abc88c14c5ea086d",
-    "url": "/static/js/1.8296abc8.chunk.js"
+    "revision": "69bf98d64b4e3b1f140a",
+    "url": "/static/js/1.69bf98d6.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/static/media/austraVsSouthAfrica.3c8415b4.jpeg"
   },
   {
-    "revision": "bd5a362d4e4159656063",
-    "url": "/static/js/main.bd5a362d.chunk.js"
+    "revision": "faf29241c04eb08b9758",
+    "url": "/static/js/main.faf29241.chunk.js"
   },
   {
     "revision": "e3f042cdf06622838c191c7c0554b295",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/statsenausnwl.2e268a80.png"
   },
   {
-    "revision": "0f8e1b17c71e351694d57b42479d68cb",
+    "revision": "964aa933432793cb6b8ce325bd73dfcd",
     "url": "/index.html"
   }
 ];
