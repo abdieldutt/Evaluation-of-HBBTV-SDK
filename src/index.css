@@ -1,3 +1,5 @@
+
+
 body {
   margin: 0;
   padding: 0;
@@ -6,7 +8,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
+
   background-color: white;
 }
 
@@ -17,8 +19,8 @@ code {
 /* HTML stylings */
 .TopHeading h1 {
   text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .RowHeader {
     display: table;
@@ -92,17 +94,20 @@ code {
   margin-right: auto;
 }
 /* Todays Matches stylings */
-.todaysmatchescontainer h2 {
-  text-align: center;
-  text-decoration: none;
-  color: black;
+.todaysmatchescontainer {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.matchOne, .matchTwo, .matchThree, .matchFour {
+  width: 25%
 }
 .matchOne img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 400px;
-  width: 900px;
+  height: 150px;
+  width: 250px;
 }
 .matchOne img:hover {
   box-shadow: 0 0 3px 2px black;
@@ -115,8 +120,8 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 400px;
-  width: 900px;
+  height: 150px;
+  width: 250px;
 }
 .matchTwo img:hover {
   box-shadow: 0 0 3px 2px black;
@@ -125,6 +130,99 @@ code {
   color: black;
   text-align: center;
 }
+.matchThree img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchThree img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchThree p,h3 {
+  color: black;
+  text-align: center;
+}
+.matchFour img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchFour img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchFour p,h3 {
+  color: black;
+  text-align: center;
+}
+.todaysmatchescontainer2 {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+.matchFive, .matchSix, .matchSeven, .matchEight {
+  width: 25%
+}
+.matchFive img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchFive img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchFive p,h3 {
+  color: black;
+  text-align: center;
+}
+.matchSix img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchSix img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchSix p,h3 {
+  color: black;
+  text-align: center;
+}
+.matchSeven img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchSeven img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchSeven p,h3 {
+  color: black;
+  text-align: center;
+}
+.matchEight img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 250px;
+}
+.matchEight img:hover {
+  box-shadow: 0 0 3px 2px black;
+}
+.matchEight p,h3 {
+  color: black;
+  text-align: center;
+}
+
 /* Summary stylings */
 .summarycontainer {
   display: flex;
@@ -138,14 +236,14 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 400px;
+  height: 300px;
   width: 600px;
 }
 .summaryTwo img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 400px;
+  height: 300px;
   width: 600px;
 }
 .summaryOne p,h2 {
@@ -170,14 +268,14 @@ code {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 500px;
-  width: 400px;
+  height: 340px;
+  width: 350px;
 }
 .statTwo img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 500px;
+  height: 340px;
   width: 600px;
 }
 .statOne h3 {
@@ -190,6 +288,7 @@ code {
 }
 
 /* Rankings Stylings */
+
 
 .rankingscontainer h3 {
   text-align: center;
