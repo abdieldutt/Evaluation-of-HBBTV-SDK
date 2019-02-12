@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/kenyavseng.a8787c57.jpg"
   },
   {
-    "revision": "6b89509a8c5e71cc319a",
-    "url": "/static/css/main.5184fe03.chunk.css"
+    "revision": "8e92bf7d37a19e78d0d7",
+    "url": "/static/css/main.7285fb9b.chunk.css"
   },
   {
-    "revision": "d79709caf0ae7aee4c30",
-    "url": "/static/js/1.d79709ca.chunk.js"
+    "revision": "de13b3ef0b83116448d2",
+    "url": "/static/js/1.de13b3ef.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/pakvsind.8a2815e2.jpg"
   },
   {
-    "revision": "6b89509a8c5e71cc319a",
-    "url": "/static/js/main.6b89509a.chunk.js"
+    "revision": "8e92bf7d37a19e78d0d7",
+    "url": "/static/js/main.8e92bf7d.chunk.js"
   },
   {
     "revision": "423b3e676636ce274a18ae86fcaf5b83",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/statsenausnwl.2e268a80.png"
   },
   {
-    "revision": "f50c6284f13d10a6c97d952d07a0cc78",
+    "revision": "f4fe883a28ea92342fa1f19a91c38552",
     "url": "/index.html"
   }
 ];

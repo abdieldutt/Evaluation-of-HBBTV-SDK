@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.5184fe03.chunk.css",
-  "main.js": "/static/js/main.6b89509a.chunk.js",
-  "main.js.map": "/static/js/main.6b89509a.chunk.js.map",
-  "static/js/1.d79709ca.chunk.js": "/static/js/1.d79709ca.chunk.js",
-  "static/js/1.d79709ca.chunk.js.map": "/static/js/1.d79709ca.chunk.js.map",
+  "main.css": "/static/css/main.7285fb9b.chunk.css",
+  "main.js": "/static/js/main.8e92bf7d.chunk.js",
+  "main.js.map": "/static/js/main.8e92bf7d.chunk.js.map",
+  "static/js/1.de13b3ef.chunk.js": "/static/js/1.de13b3ef.chunk.js",
+  "static/js/1.de13b3ef.chunk.js.map": "/static/js/1.de13b3ef.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/statsenausnwl.png": "/static/media/statsenausnwl.2e268a80.png",
@@ -19,8 +19,8 @@
   "static/media/englandWon.jpg": "/static/media/englandWon.808b371f.jpg",
   "static/media/fieldstats.jpg": "/static/media/fieldstats.2e5d8f87.jpg",
   "static/media/austraVsSouthAfrica.jpeg": "/static/media/austraVsSouthAfrica.3c8415b4.jpeg",
-  "static/css/main.5184fe03.chunk.css.map": "/static/css/main.5184fe03.chunk.css.map",
+  "static/css/main.7285fb9b.chunk.css.map": "/static/css/main.7285fb9b.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c008f261a88308fd9e8ae2bfee111f87.js": "/precache-manifest.c008f261a88308fd9e8ae2bfee111f87.js",
+  "precache-manifest.dd488562e78257a75e20d1c746822967.js": "/precache-manifest.dd488562e78257a75e20d1c746822967.js",
   "service-worker.js": "/service-worker.js"
 }

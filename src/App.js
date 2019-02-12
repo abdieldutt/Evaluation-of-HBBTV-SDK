@@ -9,6 +9,7 @@ import Error from './components/Error';
 import Navigation from './components/Navigation';
 
 class App extends Component {
+
   render() {
     return (
       <BrowserRouter>
