@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/kenyavseng.a8787c57.jpg"
   },
   {
-    "revision": "8e92bf7d37a19e78d0d7",
-    "url": "/static/css/main.7285fb9b.chunk.css"
+    "revision": "292149dc30d4f1a38c2b",
+    "url": "/static/css/main.6216b5a2.chunk.css"
   },
   {
-    "revision": "de13b3ef0b83116448d2",
-    "url": "/static/js/1.de13b3ef.chunk.js"
+    "revision": "bee8c471ec1fd23f8fa6",
+    "url": "/static/js/1.bee8c471.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/pakvsind.8a2815e2.jpg"
   },
   {
-    "revision": "8e92bf7d37a19e78d0d7",
-    "url": "/static/js/main.8e92bf7d.chunk.js"
+    "revision": "292149dc30d4f1a38c2b",
+    "url": "/static/js/main.292149dc.chunk.js"
   },
   {
     "revision": "423b3e676636ce274a18ae86fcaf5b83",
@@ -60,6 +60,10 @@ self.__precacheManifest = [
     "url": "/static/media/englandWon.808b371f.jpg"
   },
   {
+    "revision": "27360a0a46678eb96112bce032da1c19",
+    "url": "/static/media/pakiwin.27360a0a.jpg"
+  },
+  {
     "revision": "2e5d8f87f23241d214c51e9cb81cc4b3",
     "url": "/static/media/fieldstats.2e5d8f87.jpg"
   },
@@ -68,7 +72,7 @@ self.__precacheManifest = [
     "url": "/static/media/statsenausnwl.2e268a80.png"
   },
   {
-    "revision": "f4fe883a28ea92342fa1f19a91c38552",
+    "revision": "ae818498678519d743f63a3a6a57a913",
     "url": "/index.html"
   }
 ];

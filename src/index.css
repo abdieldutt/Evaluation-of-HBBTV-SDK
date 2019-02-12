@@ -229,7 +229,7 @@ code {
   height: 100%;
   width: 100%;
 }
-.summaryOne, .summaryTwo {
+.summaryOne, .summaryTwo, .summaryThree {
   width: 50%
 }
 .summaryOne img {
@@ -237,14 +237,25 @@ code {
   margin-left: auto;
   margin-right: auto;
   height: 300px;
-  width: 600px;
+  width: 400px;
 }
 .summaryTwo img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   height: 300px;
-  width: 600px;
+  width: 400px;
+}
+.summaryThree img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
+  width: 400px;
+}
+.summaryThree p,h2 {
+  color: black;
+  text-align: center;
 }
 .summaryOne p,h2 {
   color: black;
@@ -269,7 +280,7 @@ code {
   margin-left: auto;
   margin-right: auto;
   height: 340px;
-  width: 350px;
+  width: 300px;
 }
 .statTwo img {
   display: block;
